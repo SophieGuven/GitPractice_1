@@ -2,4 +2,6 @@ package day1;
 
 public class SecondClass {
     //work 1 is done here
+    //work 2 is done
+
 }
