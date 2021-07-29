@@ -5,6 +5,7 @@ public class PracticeDay3 {
 //lets work in this class
         //create new array list
         //adding new item
+        //print out
 
     }
 }
