@@ -5,4 +5,6 @@ public class Movie {
     //they have decided
     //to continue the movie
     //from 22 mins
+
+    //this is more stuff from master
 }
