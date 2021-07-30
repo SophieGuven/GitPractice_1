@@ -5,4 +5,5 @@ public class Conflict {
     //I can type what i want
 
     //more work added
+    //this class is very easy to follow
 }
