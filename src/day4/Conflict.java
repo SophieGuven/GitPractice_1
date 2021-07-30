@@ -1,5 +1,6 @@
 package day4;
 
 public class Conflict {
-    //master branch content
+//i wnt to accept this work
+    //I can type what i want
 }
